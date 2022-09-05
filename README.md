@@ -1,1 +1,17 @@
-# 81de1bf4-6fa2-4491-842c-7c637210abe2
+# Template: worker-example-wordle
+
+A template for kickstarting a multiplayer clone of the [Wordle](https://www.nytimes.com/games/wordle/index.html) game.
+
+## Setup
+
+To create a `my-project` directory using this template, run:
+
+```sh
+$ npm init cloudflare my-project worker-example-wordle
+# or
+$ yarn create cloudflare my-project worker-example-wordle
+# or
+$ pnpm create cloudflare my-project worker-example-wordle
+```
+
+> **Note:** Each command invokes [`create-cloudflare`](https://www.npmjs.com/package/create-cloudflare) for project creation.
